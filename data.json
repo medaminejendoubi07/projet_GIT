@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "title": "Soupe",
+    "img_url": "/images/soupe.webp",
+    "price": 5,
+    "review": 3,
+    "description": "Une soupe savoureuse avec des légumes frais, idéale pour les jours froids."
+  },
+  {
+    "id": 2,
+    "title": "Salade",
+    "img_url": "/images/salade.jpg",
+    "price": 3,
+    "review": 3,
+    "description": "Salade légère avec des ingrédients frais et une touche de vinaigrette."
+  },
+  {
+    "id": 3,
+    "title": "Couscous",
+    "img_url": "/images/couscous.jpg",
+    "price": 10,
+    "review": 4,
+    "description": "Couscous traditionnel avec des légumes et des épices parfumées."
+  },
+  {
+    "id": 4,
+    "title": "Pasta",
+    "img_url": "/images/makarouna.jpg",
+    "price": 7.5,
+    "review": 3,
+    "description": "Plat de pâtes riches en saveurs accompagné de sauce tomate maison."
+  },
+  {
+    "id": 5,
+    "title": "Kafteji",
+    "img_url": "/images/kafteji.webp",
+    "price": 4,
+    "review": 3,
+    "description": "Kafteji épicé avec une sauce savoureuse et des légumes frais."
+  },
+  {
+    "id": 6,
+    "title": "Lablabi",
+    "img_url": "/images/lablabi.jpg",
+    "price": 3.5,
+    "review": 3,
+    "description": "Lablabi tunisien traditionnel servi avec des pois chiches et des épices."
+  },
+  {
+    "id": 7,
+    "title": "Chapati",
+    "img_url": "/images/chapati.jpg",
+    "price": 2.5,
+    "review": 2,
+    "description": "Pain plat indien, idéal pour accompagner les currys."
+  },
+  {
+    "id": 8,
+    "title": "Cocktail multi-fruits",
+    "img_url": "/images/cocktail.jpg",
+    "price": 2.5,
+    "review": 2,
+    "description": "Cocktail rafraîchissant de fruits frais mélangés."
+  },
+ 
+  {
+    "id": 9,
+    "title": "Tacos",
+    "img_url": "/images/tacos.jpg",
+    "price": 4,
+    "review": 3,
+    "description": "Tacos avec viande épicée, légumes frais et sauce légère."
+  },
+  {
+    "id": 10,
+    "title": "Poisson Grillé",
+    "img_url": "/images/poisson.jpg",
+    "price": 11,
+    "review": 5,
+    "description": "Poisson frais grillé avec une marinade citronnée."
+  },
+  {
+    "id": 11,
+    "title": "Pizza",
+    "img_url": "/images/pizza.jpg",
+    "price": 4,
+    "review": 4,
+    "description": "Pizza maison avec une base fine et garniture savoureuse."
+  },
+  {
+    "id": 12,
+    "title": "Ojja",
+    "img_url": "/images/ojja.webp",
+    "price": 9,
+    "review": 4,
+    "description": "Ojja tunisienne, plat épicé à base d'œufs et de légumes."
+  },
+  {
+    "id": 13,
+    "title": "Hamburger",
+    "img_url": "/images/hamburger.jpg",
+    "price": 4.5,
+    "review": 3,
+    "description": "Burger savoureux avec viande hachée et garniture fraîche."
+  },
+  {
+    "id": 14,
+    "title": "Frite",
+    "img_url": "/images/frite.jpg",
+    "price": 1,
+    "review": 2,
+    "description": "Frites croustillantes à la fois légères et savoureuses."
+  },
+  {
+    "id": 15,
+    "title": "Makloub",
+    "img_url": "/images/makloub.jpg",
+    "price": 4,
+    "review": 3,
+    "description": "Un sandwich tunisien généreux à base de viande, fromage, et légumes frais, cuit à la perfection."
+  }
+]
